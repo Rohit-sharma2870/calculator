@@ -1,0 +1,22 @@
+#screen{
+    width: 200px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+#display{
+    width: 80%;
+    margin: 10%;
+ font-size: 30px;
+ 
+}
+#buttoncontainer{
+   
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: center;
+}
+.button{
+    margin: 5px;
+    width: 45px;
+    height: 45Px;
+}
